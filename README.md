@@ -7,6 +7,6 @@ A simple static site to mind some methods and try new tools.
 * Tried Figma;
 * Recollected some Flexbox rules;
 * Tried PixelPerfect Chrome plug-in;
-* Learned how to Github Pages.
+* Learned how to use Github Pages.
 
 [Website Mockup](https://www.figma.com/file/V3l3zWEuVqixPQzeWw34AI/Templates-HTML%2FCSS?node-id=0%3A1)
