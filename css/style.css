@@ -169,6 +169,15 @@ a.btn:hover{
     margin-top: 15px;
     margin-bottom: 25px;
     letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.buy:hover{
+    border: 2px solid #66C05D;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #333333;
+    transition: 0.2s;
 }
 
 .item{
@@ -255,7 +264,15 @@ a.btn:hover{
     padding: 7px 27px;
     background-color: transparent;
     margin-top: 13px;
+    cursor: pointer;
+    transition: 0.2s;
 }
+
+.card button:hover{
+    background-color: #ffff;
+    color: #333333;
+}
+
 
 .card input{
     border: none;
