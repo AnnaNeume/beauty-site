@@ -1,7 +1,7 @@
 # Beauty Website
 A simple static site to mind some methods and try new tools.
 
-:link: https://cetteannette.github.io/beauty-site/
+:link: https://annaneume.github.io/beauty-site/
 
 * Tried Visual Studio (I was using Sublime text before);
 * Tried Figma;
